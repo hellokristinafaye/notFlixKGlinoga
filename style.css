@@ -9,9 +9,9 @@ body {
     color: whitesmoke;
 }
 
-.h1 {
+/* .h1 {
     font-size: 50px;
-}
+} */
 
 .row__poster {
     width: 100%;
@@ -43,4 +43,9 @@ body {
 
 .row__posterLarge:hover {
     transform: scale(1.09);
+}
+
+.row {
+    color: white;
+    margin-left: 20px;
 }
