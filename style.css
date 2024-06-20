@@ -1,9 +1,22 @@
 * {
-    background-color:black;
-    color:white;
-    font-family: "Helvetica Neue", "Helvetica", "Arial";
+    margin: 0;
+    box-sizing: border-box;
+    }
+
+body {
+    font-family: "Arial", "Helvetica Neue", "sans-serif";
+    background-color: #111;
+    color: whitesmoke;
 }
 
 .h1 {
     font-size: 50px;
+}
+
+.row__poster {
+    width: 100%;
+    object-fit: contain;
+    max-height: 100px;
+    margin-right: 10px;
+    transition: transform 450ms;
 }
