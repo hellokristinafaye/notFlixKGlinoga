@@ -20,3 +20,10 @@ body {
     margin-right: 10px;
     transition: transform 450ms;
 }
+
+.row__posters {
+    display: flex;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    padding: 20px;
+}
