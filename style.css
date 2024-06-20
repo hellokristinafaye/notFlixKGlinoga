@@ -32,3 +32,7 @@ body {
 .row__poster:hover {
     transform: scale(1.08);
 }
+
+.row__posters::-webkit-scrollbar {
+    display: none;
+}
