@@ -36,3 +36,7 @@ body {
 .row__posters::-webkit-scrollbar {
     display: none;
 }
+
+.row__posterLarge {
+    max-height: 250px;
+}
