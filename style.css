@@ -49,3 +49,9 @@ body {
     color: white;
     margin-left: 20px;
 }
+
+.banner {
+    background-image: url('netflix-images/banner.jpg')
+}
+
+/* let's pause here for the morning. 21:10 in the tutorial */
