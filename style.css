@@ -60,3 +60,9 @@ body {
 }
 
 /* let's pause here for the morning. 21:10 in the tutorial */
+
+.banner__contents {
+    margin-left: 30px;
+    padding-top: 140px;
+    height: 190px;
+}
