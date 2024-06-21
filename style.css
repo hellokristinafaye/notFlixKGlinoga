@@ -51,7 +51,12 @@ body {
 }
 
 .banner {
-    background-image: url('netflix-images/banner.jpg')
+    background-image: url('netflix-images/banner.jpg');
+    background-size: cover;
+    background-position: center center;
+    color: white;
+    object-fit: contain;
+    height: 449px;
 }
 
 /* let's pause here for the morning. 21:10 in the tutorial */
