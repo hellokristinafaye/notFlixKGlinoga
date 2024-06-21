@@ -105,7 +105,7 @@ body {
 
 .banner--fadeBottom {
     margin-top: 145px;
-    height: 7.4rem;
-    background-image: linear-gradient(180deg, transparent, rgba(51, 51, 51, 0.61), #111);
-
+    height: 9.4rem;
+    background-image: linear-gradient(180deg, transparent, rgba(17, 17, 17, 1), #111);
+    /* this is slightly different from the original tutorial's code.  his was: rgba(31, 31, 31, .61).  I personally like mine better right now, will perhaps change back in the future. */
 }
